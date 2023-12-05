@@ -1,0 +1,6 @@
+C:\temp\ws-vs2019\sequencia impares\sequencia impares\bin\Debug\sequencia impares.exe.config
+C:\temp\ws-vs2019\sequencia impares\sequencia impares\bin\Debug\sequencia impares.exe
+C:\temp\ws-vs2019\sequencia impares\sequencia impares\bin\Debug\sequencia impares.pdb
+C:\temp\ws-vs2019\sequencia impares\sequencia impares\obj\Debug\sequencia impares.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\sequencia impares\sequencia impares\obj\Debug\sequencia impares.exe
+C:\temp\ws-vs2019\sequencia impares\sequencia impares\obj\Debug\sequencia impares.pdb
